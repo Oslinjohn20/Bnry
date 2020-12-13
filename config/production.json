@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://OssieJohn20:OssieJohn20@galleryslider.nucjj.mongodb.net/GallerySlider?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
